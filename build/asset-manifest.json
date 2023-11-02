@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1f0c2cd.css",
+    "main.js": "/static/js/main.216bfbf4.js",
+    "static/media/ADanceWithDragons.jpg": "/static/media/ADanceWithDragons.c4dd5daa816bba0ffc36.jpg",
+    "static/media/AGameOfThrones.jpg": "/static/media/AGameOfThrones.e9692bcc960c242d21f5.jpg",
+    "static/media/FireAndBlood.jpg": "/static/media/FireAndBlood.a754ddc469d6b5cf1866.jpg",
+    "static/media/AStormOfSwords.jpg": "/static/media/AStormOfSwords.8ed41ffb3893d294c795.jpg",
+    "static/media/AClashOfKings.jpg": "/static/media/AClashOfKings.ad7ebbdb36600289e559.jpg",
+    "static/media/AFeastForCrows.jpg": "/static/media/AFeastForCrows.ea48152a3587034023e4.jpg",
+    "index.html": "/index.html",
+    "main.c1f0c2cd.css.map": "/static/css/main.c1f0c2cd.css.map",
+    "main.216bfbf4.js.map": "/static/js/main.216bfbf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f0c2cd.css",
+    "static/js/main.216bfbf4.js"
+  ]
+}
